@@ -1,1 +1,2 @@
-Basic EJS site: Login and register -pages, practising authentication
+Practising simple authentication with a login/register page
+mongodb/mongoose, node, express
