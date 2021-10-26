@@ -1,2 +1,2 @@
 Practising simple authentication with a login/register page
-mongodb/mongoose, node, express
+mongodb/mongoose, node+express, EJS, oauth
